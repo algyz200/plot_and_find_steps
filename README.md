@@ -1,6 +1,6 @@
-# plot_traces
- plots time series data and finds steps from optical trapping experiments of molecular motors
+# plot_and_find_steps
 
+ plots time series data and finds steps from optical trapping experiments of molecular motors
 
 #Algis Toleikis 2015-2019 algirdas.toleikis@gmail.com
 
