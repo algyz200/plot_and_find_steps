@@ -24,4 +24,4 @@ Note: The step-finder itself is in a separate file. Also - peak finder.
 
 test file included (testfile.txt)
 expected result is below. Green are the detected steps
-![Image description](https://github.com/algyz200/plot_traces/blob/master/testfile_result.png)
+![Image description](https://github.com/algyz200/plot_and_find_steps/blob/master/testfile_result.png)
